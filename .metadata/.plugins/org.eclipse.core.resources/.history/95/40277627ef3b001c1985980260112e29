@@ -1,0 +1,15 @@
+
+public class Chapter07 {
+	public static void mian(String[] args) {
+		int span = 12;
+		if (span <= 5) {
+			System.out.println("とても近いです。");
+		} else if (span <= 10) {
+			System.out.println("近いです。");
+		} else if (span <= 15) {
+			System.out.println("遠いです。");
+		} else {
+			System.out.println("とても遠いです。");
+		}
+	}
+}
