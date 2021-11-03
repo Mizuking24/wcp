@@ -11,5 +11,7 @@
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Ready02"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Switch01"/>
         <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Variable01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="While01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="while01"/>
     </category>
 </runner>
